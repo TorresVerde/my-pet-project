@@ -1,1 +1,1 @@
-# my-pet-project
+# QA-Test-Cases-for-Online-Shop
