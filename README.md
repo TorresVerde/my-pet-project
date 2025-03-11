@@ -1,1 +1,1 @@
-# QA-Test-Cases-for-Online-Shop
+# Bug-reports-for-Online-Shop
